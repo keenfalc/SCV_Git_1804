@@ -58,6 +58,11 @@ git checkout <хеш-код>
 git checkout master
 ```
 
+Пример использования команды `git checkout`:
+```
+git checkout 2f31c9e
+```
+
 ## 8. Игнорирование файлов
 
 
