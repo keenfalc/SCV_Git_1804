@@ -98,3 +98,5 @@ git merge
 git branch -d
 ```
 например: `git branch -d [имя ветки]`
+
+...
